@@ -1,0 +1,1 @@
+Hello this is mi first mini project, related with the odin project, i finish the html foundations, these code is about a foods and respective recipe, steps and ingredients. I will become a fullstack dev, greetings from Chile.
