@@ -1,0 +1,14 @@
+body{
+    background-color: white;
+}
+
+.op{
+    font-size: 40px;
+    color:green ;
+    text-align: center;
+}
+
+a {
+    color: coral;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
